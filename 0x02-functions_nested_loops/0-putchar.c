@@ -1,3 +1,4 @@
+int -putchar(char)
 #include "main.h"
 /**
  * main - Entry point
